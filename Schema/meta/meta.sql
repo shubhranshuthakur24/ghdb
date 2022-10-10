@@ -1,0 +1,3 @@
+-- DROP SCHEMA meta;
+
+CREATE SCHEMA meta AUTHORIZATION postgres;

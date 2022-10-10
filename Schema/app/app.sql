@@ -1,0 +1,3 @@
+-- DROP SCHEMA app;
+
+CREATE SCHEMA app AUTHORIZATION postgres;
